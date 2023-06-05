@@ -1,3 +1,3 @@
 # Visualize-Mastery
 
-# Starting a new notebook
+## Starting a new notebook
