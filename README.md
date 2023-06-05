@@ -13,4 +13,4 @@
 
 You can find the Python notebook that generates this visualization here: [Notebook link](Notebooks/Combo of Simple and Stacked bar plot.ipynb)
 
-![combo_of_simple_and_stacked_bar.png](Images/combo_of_simple_and_stacked_bar.png)
+![combo_of_simple_and_stacked_bar.png](/Images/combo_of_simple_and_stacked_bar.png)
