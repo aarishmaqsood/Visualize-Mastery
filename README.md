@@ -11,6 +11,6 @@
 - This way of visualization enables a clear comparison of the costs across different regions and reliability levels.
 - The stacked bars allow us to understand the distribution of different components within each reliability level for a particular region.
 
-You can find the Python notebook that generates this visualization here: [Notebook link]([Notebooks/Combo of Simple and Stacked bar plot.ipynb](https://github.com/aarishmaqsood/Visualize-Mastery/blob/main/Notebooks/Combo%20of%20Simple%20and%20Stacked%20bar%20plot.ipynb))
+Notebook shows the following visualaization can be found in this [link](https://github.com/aarishmaqsood/Visualize-Mastery/blob/main/Notebooks/Combo%20of%20Simple%20and%20Stacked%20bar%20plot.ipynb)
 
 ![combo_of_simple_and_stacked_bar.png](/Images/combo_of_simple_and_stacked_bar.png)
